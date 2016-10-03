@@ -1,0 +1,7 @@
+#
+# fips-nlohmann-json
+#
+---
+exports:
+    header-dirs:
+        - json/src
